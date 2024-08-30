@@ -8,7 +8,7 @@ image:
   repository: poliajayf5/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10635277725"
+  tag: "10635527733"
 
 ingress:
   enabled: false
